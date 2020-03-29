@@ -10,7 +10,7 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * git
 * maven
 * tomcat
-
+#Build My Project from Github when change in code
 ## Eclipse Project setup
 * Use git clone to pull project into workspace directory
  * git clone https://github.com/DEV3L/mvn-hello-world-web-app.git
