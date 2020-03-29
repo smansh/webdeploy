@@ -12,3 +12,6 @@ https://github.com/jenkins-docs/simple-java-maven-app.git
 
 war deployument -- Deploy to container plugin
 
+=================================================================
+tomcat port using-8080
+jenkins port using-9090
