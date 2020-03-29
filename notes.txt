@@ -1,0 +1,14 @@
+Sample-Maven-project
+Source code management—Git
+Repositories-https://github.com/jenkins-docs/simple-java-maven-app.git
+Build trigger-
+Check Build whenever a Snapshot dependency is built
+Build—Root pom—pom.xml
+Goals and option—clean package
+Post step
+Check Run regardless of build result
+https://github.com/jabedhasan21/java-hello-world-with-maven.git
+https://github.com/jenkins-docs/simple-java-maven-app.git
+
+war deployument -- Deploy to container plugin
+
