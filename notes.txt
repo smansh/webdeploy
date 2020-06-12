@@ -1,4 +1,4 @@
-#test for webhook-trigger and deploy on tomcat server
+#test for webhook-trigger and deploy on tomcat server 192.168.43.122:7070
 Sample-Maven-project
 Source code management—Git
 Repositories-https://github.com/jenkins-docs/simple-java-maven-app.git
